@@ -2,7 +2,7 @@ Task 1
 Installing docker from => https://docs.docker.com/engine/install/
 Using the alpine linux image and Setting up nginx server
 
-To run the project, run the following commands.
+To run the task run the following commands 
 
 docker build -t task1 .
 
