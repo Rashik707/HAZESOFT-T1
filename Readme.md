@@ -1,5 +1,7 @@
 Task 1
-Installing docker from => https://docs.docker.com/engine/install/
+
+Installing docker from docker official website
+
 Using the alpine linux image and Setting up nginx server
 
 To run the task run the following commands 
